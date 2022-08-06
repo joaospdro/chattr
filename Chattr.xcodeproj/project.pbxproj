@@ -46,6 +46,7 @@
 		397ADEAA289E798F0048E2A2 /* Screenshot2.png in Resources */ = {isa = PBXBuildFile; fileRef = 397ADEA7289E798F0048E2A2 /* Screenshot2.png */; };
 		397ADEAB289E798F0048E2A2 /* Screenshot1.png in Resources */ = {isa = PBXBuildFile; fileRef = 397ADEA8289E798F0048E2A2 /* Screenshot1.png */; };
 		397ADEAC289E798F0048E2A2 /* Screenshot3.png in Resources */ = {isa = PBXBuildFile; fileRef = 397ADEA9289E798F0048E2A2 /* Screenshot3.png */; };
+		397ADEAE289E7CC00048E2A2 /* Screenshot4.png in Resources */ = {isa = PBXBuildFile; fileRef = 397ADEAD289E7CC00048E2A2 /* Screenshot4.png */; };
 		39C96054288CFFAC00BDE820 /* AuthService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39C96053288CFFAC00BDE820 /* AuthService.swift */; };
 		526A358173A06C0223FD649B /* Pods_Chattr.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 24192926A85ACCF4404A050C /* Pods_Chattr.framework */; };
 /* End PBXBuildFile section */
@@ -89,6 +90,7 @@
 		397ADEA7289E798F0048E2A2 /* Screenshot2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot2.png; sourceTree = "<group>"; };
 		397ADEA8289E798F0048E2A2 /* Screenshot1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot1.png; sourceTree = "<group>"; };
 		397ADEA9289E798F0048E2A2 /* Screenshot3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot3.png; sourceTree = "<group>"; };
+		397ADEAD289E7CC00048E2A2 /* Screenshot4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot4.png; sourceTree = "<group>"; };
 		39C96053288CFFAC00BDE820 /* AuthService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthService.swift; sourceTree = "<group>"; };
 		5C0788D9781F6CD5E45123B9 /* Pods-Chattr.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Chattr.release.xcconfig"; path = "Target Support Files/Pods-Chattr/Pods-Chattr.release.xcconfig"; sourceTree = "<group>"; };
 		FDF20F2F118CC286802AAEC9 /* Pods-Chattr.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Chattr.debug.xcconfig"; path = "Target Support Files/Pods-Chattr/Pods-Chattr.debug.xcconfig"; sourceTree = "<group>"; };
@@ -256,6 +258,7 @@
 				397ADEA8289E798F0048E2A2 /* Screenshot1.png */,
 				397ADEA7289E798F0048E2A2 /* Screenshot2.png */,
 				397ADEA9289E798F0048E2A2 /* Screenshot3.png */,
+				397ADEAD289E7CC00048E2A2 /* Screenshot4.png */,
 			);
 			path = Screenshots;
 			sourceTree = "<group>";
@@ -342,6 +345,7 @@
 				391757C9288CE7DD0072AF38 /* LaunchScreen.storyboard in Resources */,
 				397ADEAA289E798F0048E2A2 /* Screenshot2.png in Resources */,
 				391757C6288CE7DD0072AF38 /* Assets.xcassets in Resources */,
+				397ADEAE289E7CC00048E2A2 /* Screenshot4.png in Resources */,
 				397ADEAB289E798F0048E2A2 /* Screenshot1.png in Resources */,
 				397ADEA2289DE5F50048E2A2 /* README.md in Resources */,
 				391757EA288CEA460072AF38 /* GoogleService-Info.plist in Resources */,
