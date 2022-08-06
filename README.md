@@ -21,10 +21,10 @@ A fully functional real time chat app.
 ## Screenshots
 
 <div align="center">
-<img src="https://github.com/joaospedro/chattr/raw/main/Docs/Screenshots/Screenshot1.png" width="245"/>
-<img src="https://github.com/joaospedro/chattr/raw/main/Docs/Screenshots/Screenshot3.png" width="245"/>
-<img src="https://github.com/joaospedro/chattr/raw/main/Docs/Screenshots/Screenshot2.png" width="245"/>
-<img src="https://github.com/joaospedro/chattr/raw/main/Docs/Screenshots/Screenshot4.png" width="245"/>
+<img src="https://github.com/joaospedro/chattr/raw/main/Docs/Screenshots/Screenshot1.png" width="200"/>
+<img src="https://github.com/joaospedro/chattr/raw/main/Docs/Screenshots/Screenshot3.png" width="200"/>
+<img src="https://github.com/joaospedro/chattr/raw/main/Docs/Screenshots/Screenshot2.png" width="200"/>
+<img src="https://github.com/joaospedro/chattr/raw/main/Docs/Screenshots/Screenshot4.png" width="200"/>
 
 </div>
 
