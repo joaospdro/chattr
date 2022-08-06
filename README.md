@@ -1,6 +1,6 @@
 # :speech_balloon: Chattr
 
-A fully functional real time chat app.
+A fully functional real time messaging app.
 
 ## Contents
 
