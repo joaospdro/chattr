@@ -15,7 +15,7 @@ A fully functional real time messaging app.
 - [x] Add profile image
 - [x] See all recent messages
 - [x] Search for a user
-- [ ] View and change account info
+- [x] View and change account info
 
 
 ## Screenshots
@@ -39,4 +39,4 @@ A fully functional real time messaging app.
 
 ## Author
 
-- Website - [João Pedro Oliveira](https://joaospedro.me)
+- Website - [João Pedro Oliveira](https://joaospdro.me)
